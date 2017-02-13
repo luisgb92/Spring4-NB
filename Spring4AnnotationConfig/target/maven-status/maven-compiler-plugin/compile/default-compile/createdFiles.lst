@@ -1,0 +1,3 @@
+com\outbottle\config\WebInitializer.class
+com\outbottle\config\Config.class
+com\outbottle\controllers\DefaultController.class
