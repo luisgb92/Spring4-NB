@@ -12,7 +12,7 @@
         <script src="${cp}/resources/js/js.js"></script>
     </head>
     <body>
-        <h4>Spring 4 Web MVC via Annotations</h4>
+        <h4>Ptoyecto Base de Spring MVC 4</h4>
         Spring says: <span class="blue">${msg}</span>
     </body>
 </html>
